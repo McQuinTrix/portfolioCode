@@ -1,0 +1,88 @@
+{
+  "projects":[
+    {
+      "proName": "Contact List Application",
+      "proDesc": "A small App, which lets you add new contacts as name, email and phone number. You can also delete a certain contact and edit a certain contact. The server is designed with the help of Express.js with the magic of Node.js. The CSS used in the design of website is BootStrap CSS. The database used is MongoDB and the frameworks used for displaying the data is Angular.js. A fully MEAN stack application with CRUD functionalities of MongoDB.",
+      "proLink": "http://git.io/veK2O",
+      "proTech": ["MongoDB", "Node.js", "Angular.js", "Express.js", " BootStrap", " HTML5"]
+    },
+    {
+      "proName": "Book Store Application",
+      "proDesc": "A book store website, where people can people can buy books from given list of books, add to their shopping cart and register your account. The website's front end was made with HTML/CSS. The validation of the user registration is done with JavaScript. The backend data is handled using PHP with Oracle database.",
+      "proLink": "",
+      "proTech": ["HTML5/CSS3", " JavaScript", " jQuery", " PHP", " Oracle SQL"]
+    },
+    {
+      "proName": "Image Upload Node.js Web Application",
+      "proDesc": "A browser based fully Node.js web application, where a user can see a welcome page when requesting http://domain/start which would display a file upload form. By choosing an image file to upload and submitting the form, this image would then be uploaded to http://domain/upload, where it is displayed once the upload is finished.",
+      "proLink": "http://git.io/vqP7u",
+      "proTech": ["Node.js", "HTML/CSS"]
+    },
+      {
+      "proName": "Pomodoro Timer",
+      "proDesc": "As a user, you can start a 25 minute pomodoro, and the timer will go off once 25 minutes has elapsed and can also set break time.",
+      "proLink": "http://codepen.io/McQuinTrix/full/gaOaRx/",
+      "proTech": ["HTML/CSS3", "JavaScript", "jQuery"]
+    },
+      {
+      "proName": "Calculator",
+      "proDesc": "As a user, you can add, subtract, multiply and divide two numbers. You can clear the input field with a clear button. You can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.",
+      "proLink": "http://codepen.io/McQuinTrix/full/PPOdyN/",
+      "proTech": ["HTML5/CSS3", " JavaScript", " jQuery"]
+    },
+    {
+      "proName": "Random Quote Generator",
+      "proDesc": "This is a simple random quote generator using CSS, JavaScript arrays, random number generator, string methods, and a jQuery event handler.",
+      "proLink": "http://codepen.io/McQuinTrix/full/eNrRVE/",
+      "proTech": ["HTML5/CSS3", " JavaScript", " jQuery"]
+    },
+    {
+      "proName": "How'z the weather, Homie?",
+      "proDesc": "A Local weather app.  It uses two api queries to gather local information, and display the local weather conditions.",
+      "proLink": "http://codepen.io/McQuinTrix/full/GJdGzB",
+      "proTech": ["HTML5/CSS3", " JavaScript", " jQuery"]
+    },
+    {
+      "proName": "Twitch TV API App",
+      "proDesc": "A Twitch TV API app which lets user see whether a certain user is currently streaming on Twitch.tv. Clicking the status output will send the user directly to the user's Twitch.tv channel.If user is streaming, you can see additional details about what they are streaming. Also, a search through the streams listed. It uses two api queries to gather user information, and display the information about the user.",
+      "proLink": "http://codepen.io/McQuinTrix/full/pJaOzK/",
+      "proTech": ["HTML", " BootStrap CSS", " JavaScript", " jQuery", " Angular.js","Twitch TV API"]
+    },
+      {
+      "proName": "Tic-Tac-Toe",
+      "proDesc": "As a user, you can play a game of Tic Tac Toe with the computer and can choose whether I want to play as X or O. As a user, your game will reset as soon as it's over so you can play again.",
+      "proLink": "http://codepen.io/McQuinTrix/full/NGmzPK/",
+      "proTech": ["HTML/CSS3", "JavaScript"]
+    },
+      {
+      "proName": "Wikipedia Viewer",
+      "proDesc": "As a user, you can search Wikipedia entries in a search box and see the resulting Wikipedia entries. As a user, when you type in the search box, you can see a dropdown menu with autocomplete options for matching Wikipedia entries.",
+      "proLink": "http://codepen.io/McQuinTrix/full/meXdLx/",
+      "proTech": ["HTML5/CSS3", "JavaScript", "jQuery","Angular.js","Wikipedia API"]
+    },
+      {
+      "proName": "Simon Game",
+      "proDesc": "As a user, you are presented with a random series of button presses. As a user, each time you input a series of button presses correctly, you will see the same series of button presses but with an additional step and unique sound for each button press. If you press the wrong button, you are notified that I have done so, and that series of button presses starts again to remind me of the pattern so you can try again. You can see how many steps are in the current series of button presses. If you want to restart, you can hit a button to do so, and the game will return to a single step.  You can also play in strict mode where if you get a button press wrong, it notifies you that you have done so, and the game restarts at a new random series of button presses. As a user, you can win the game by getting a series of 20 steps correct. You are notified of victory, then the game starts over.",
+      "proLink": "http://codepen.io/McQuinTrix/full/meZKwj/",
+      "proTech": ["HTML/CSS3", "SASS/SCSS", "JavaScript", "jQuery"]
+    },
+    {
+      "proName": "FreeCodeCamp Camper News",
+      "proDesc": "As a user, I can browse recent posts from Camper News with number o likes. Also I can click on a post to be taken to the story's original URL and I can click a link to go directly to the post's discussion page.",
+      "proLink": "http://codepen.io/McQuinTrix/full/LVvEQV/",
+      "proTech": ["HTML/CSS3", "BootStrap CSS", "JavaScript", "Angular.js"]
+    },
+      {
+       "proName":"Cafeteria PickUp Schedular",
+       "proDesc":"A web app which will lets Customer browse through the menu and place an order for the food and schedule a pick up time. Also, a point of sale(POS) system for the cafeteria cashier which will list the time of pickup, student's name and food ordered",
+       "proLink":"https://github.com/McQuinTrix/CanteenPickUpSchedular",
+       "proTech":["HTML5", " CSS", " Node.js", " Express.js", " Angular.js", " BootStrap CSS", "Git/Heroku"]
+     },
+     {
+       "proName":"Chat Application",
+       "proDesc":"Chat Application using Node.js, Express.js, jQuery, Socket.io and MongoDB. Node.js & Express.js together make the server for the application. Socket.io provides the socket functionality for communication between server and front page. Database is managed by Mongoose. This chat application is a basic application which contains all the important functionalities that a chat application must have. This application can be modified and made more beautiful as anyone pleases to do so.",
+       "proLink":"https://github.com/McQuinTrix/ChatApplication",
+       "proTech":["HTML", " CSS", " Node.js", " Express.js", " jQuery", " Socket.io", " MongoDB"]
+     }
+  ]
+}
