@@ -2,25 +2,25 @@
   "certi":[
     {
       "certiName": "FreeCodeCamp Front-End Certification",
-      "ceritAuth": "FreeCodeCamp",
+      "certiAuth": "FreeCodeCamp",
       "certiLink": "http://www.freecodecamp.com/mcquintrix/front-end-certification",
       "certiNo": ""
     },
     {
       "certiName": "JavaScript​: Understanding the Weird Parts",
-      "ceritAuth": "Udemy",
+      "certiAuth": "Udemy",
       "certiLink": "https://www.udemy.com/certificate/UC-UTWBUFOQ/",
       "certiNo": "UC-UTWBUFOQ"
     },
     {
       "certiName": "Learn and Understand AngularJS",
-      "ceritAuth": "Udemy",
+      "certiAuth": "Udemy",
       "certiLink": "https://www.udemy.com/certificate/UC-GMOQLZI4/",
       "certiNo": "UC-GMOQLZI4"
     },
     {
       "certiName": "SASS Workflow",
-      "ceritAuth": "Udemy",
+      "certiAuth": "Udemy",
       "certiLink": "https://www.udemy.com/certificate/UC-HPFH0AV9/",
       "certiNo": "UC-HPFH0AV9"
     },
