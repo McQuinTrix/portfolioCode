@@ -67,8 +67,8 @@
       "proTech": ["HTML/CSS3", "SASS/SCSS", "JavaScript", "jQuery"]
     },
     {
-      "proName": "FreeCodeCamp Camper News",
-      "proDesc": "As a user, I can browse recent posts from Camper News with number o likes. Also I can click on a post to be taken to the story's original URL and I can click a link to go directly to the post's discussion page.",
+      "proName": "Reddit News",
+      "proDesc": "It's the Reddit's front page. It is a simple demonstartion of using Reddit's API and showing the amount of upvotes and also link to the comments section of that article",
       "proLink": "http://codepen.io/McQuinTrix/full/LVvEQV/",
       "proTech": ["HTML/CSS3", "BootStrap CSS", "JavaScript", "Angular.js"]
     },
