@@ -84,5 +84,57 @@
        "proLink":"https://github.com/McQuinTrix/ChatApplication",
        "proTech":["HTML", " CSS", " Node.js", " Express.js", " jQuery", " Socket.io", " MongoDB"]
      }
-  ]
+  ],
+  "employments": [
+    {
+      "companyName": "12th Wonder LLC",
+      "startDate": "2016-01-01",
+      "endDate": "2016-07-29",
+      "jobDuties": [
+        "Design and implement the integration components with backend systems using REST API",
+        "Working as a full stack developer on Asp.Net MVC 5, SQL Server 2014, Bootstrap, JavaScript, HTML and CSS.",
+        "Conduct end-to-end testing and participate in the review and analysis of test plan and test cases.",
+        "Participate in the review and analysis of designs and perform code reviews.",
+        "Design and implement responsive UI and handle cross-browser issues."
+      ],
+      "detail":[],
+      "techUsed": ["JavaScript","Bootstrap","HTML 5", "CSS", "jQuery", "Asp.Net MVC 5","SQL Server 2014", "Font Awesome"]
+    },
+    {
+      "companyName": "iTutorgroup Inc.",
+      "startDate": "2016-07-01",
+      "endDate": "2017-03-29",
+      "jobDuties": [
+        "Design and implement the integration components with backend systems using REST API",
+        "Work with consultants as required and implement agile methodologies.",
+        "Design, develop, and maintain scalable MVC-framework based web applications using JavaScript, React.js, Chartist.js, Chart.js, CSS, SASS, HTML5 and jQuery.",
+        "Work closely with UI/UX designers on the UI and UX design.",
+        "Build dynamic and responsive Web UI for H2H platform based on UX design.",
+        "Maintained codebase for whiteboard with Node.js, Jade, Fabric.js and jQuery", 
+        "Developed AlertBox.js for showing customized alert popups",
+        "Developed/Designed Multi-Language support for the application controlled with JSON.", 
+        "Developed/Designed Polling support for the application connected by Socket.IO and visualization of answer with Chartist.js.",
+        "Developed and took part in designing effort for first and second version of LiveH2H UI design",
+        "Developed Slack Application, Chrome Plugin and Mozilla Add-On from our API using Node.js, JavaScript, HTML, CSS and Chrome App APIs."
+      ],
+      "detail":[],
+      "techUsed": ["JavaScript","jQuery","GridStack.js", "RateYo.js", "Node.js","Socket.io","Moment.js","Fabric.js", "Chartist.js", "Chart.js", "Bootstrap","HTML 5", "CSS", "MySQL", "Font Awesome"]
+    },
+    {
+      "companyName": "12th Wonder LLC",
+      "startDate": "2017-04-01",
+      "endDate": "",
+      "jobDuties": [
+        "Design, develop, and maintain scalable MVC-framework based web applications using Angular 2, JavaScript,SASS, PrimeNG, Moment.js, HTML5 and jQuery.",
+        "Dates and data visualization using Vis.js and FullCalendar.js",
+        "Design mockups for new features to make it more efficient and user friendly.",
+        "Conduct end-to-end testing and participate in the review and analysis of test plan and test cases.",
+        "Participate in the review and analysis of designs and perform code reviews.",
+        "Design and implement responsive UI and handle cross-browser issues."
+      ],
+      "detail":[],
+      "techUsed": ["Angular 2", "FullCalendar.js", "Vis.js", "","JavaScript","Bootstrap","HTML 5", "CSS", "jQuery", "SQL Server 2014","Font Awesome", "Gulp"]
+    }
+  ],
+  "sideProjects":[]
 }
