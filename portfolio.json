@@ -135,6 +135,5 @@
       "detail":[],
       "techUsed": ["Angular 2", "FullCalendar.js", "Vis.js", "","JavaScript","Bootstrap","HTML 5", "CSS", "jQuery", "SQL Server 2014","Font Awesome", "Gulp"]
     }
-  ],
-  "sideProjects":[]
+  ]
 }
