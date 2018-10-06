@@ -90,6 +90,13 @@
       "companyName": "12th Wonder LLC",
       "startDate": "2016-01-01",
       "endDate": "2016-07-29",
+      "location": [
+        "city": "Dublin",
+        "coor": {
+          "x": "37.70",
+          "y": "-121.93"
+        }
+      ],
       "jobDuties": [
         "Design and implement the integration components with backend systems using REST API",
         "Working as a full stack developer on Asp.Net MVC 5, SQL Server 2014, Bootstrap, JavaScript, HTML and CSS.",
@@ -104,6 +111,13 @@
       "companyName": "iTutorgroup Inc.",
       "startDate": "2016-07-01",
       "endDate": "2017-03-29",
+      "location": [
+        "city": "Santa Clara",
+        "coor": {
+          "x": "37.35",
+          "y": "-121.95"
+        }
+      ],
       "jobDuties": [
         "Design and implement the integration components with backend systems using REST API",
         "Work with consultants as required and implement agile methodologies.",
@@ -131,6 +145,13 @@
         "Conduct end-to-end testing and participate in the review and analysis of test plan and test cases.",
         "Participate in the review and analysis of designs and perform code reviews.",
         "Design and implement responsive UI and handle cross-browser issues."
+      ],
+      "location": [
+        "city": "Dublin",
+        "coor": {
+          "x": "37.70",
+          "y": "-121.93"
+        }
       ],
       "detail":[],
       "techUsed": ["Angular 2", "FullCalendar.js", "Vis.js", "","JavaScript","Bootstrap","HTML 5", "CSS", "jQuery", "SQL Server 2014","Font Awesome", "Gulp"]
