@@ -37,12 +37,6 @@
       "proTech": ["HTML5/CSS3", " JavaScript", " jQuery"]
     },
     {
-      "proName": "How'z the weather, Homie?",
-      "proDesc": "A Local weather app.  It uses two api queries to gather local information, and display the local weather conditions.",
-      "proLink": "http://codepen.io/McQuinTrix/full/GJdGzB",
-      "proTech": ["HTML5/CSS3", " JavaScript", " jQuery"]
-    },
-    {
       "proName": "Twitch TV API App",
       "proDesc": "A Twitch TV API app which lets user see whether a certain user is currently streaming on Twitch.tv. Clicking the status output will send the user directly to the user's Twitch.tv channel.If user is streaming, you can see additional details about what they are streaming. Also, a search through the streams listed. It uses two api queries to gather user information, and display the information about the user.",
       "proLink": "http://codepen.io/McQuinTrix/full/pJaOzK/",
